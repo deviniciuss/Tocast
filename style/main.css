@@ -1,0 +1,42 @@
+/* Declaring a variable in CSS, happens because imagine if you need to change the color of your site, rather than you going to change color for another color in your CSS, so you easily change the color declared of the variable */
+:root{
+    --vermelho: #E50914;
+    --preta: #141414;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+body{
+    background: var(--preta);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+header .container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header .logo{
+    color: var(--vermelho);
+    font-family: Arial Black, Helvetica, sans-serif;
+    font-size: 40px;
+    margin-left: 8px;
+}
+
+header nav a{
+    text-decoration: none;
+    color: #AAA;
+    margin-right: 10px;
+
+}
+header nav a:hover{
+    color: #fff;
+}
