@@ -1,17 +1,19 @@
-
-$('.owl-carousel').owlCarousel({
+$(document).ready(function($) {
+    $('#owl-carousel-video').owlCarousel({
+    items:1,
+    merge:true,
     loop:true,
     margin:10,
-    nav:false,
+    video:true,
+    lazyLoad:true,
+    center:true,
     responsive:{
-        0:{
-            items:1
+        480:{
+            items:2
         },
         600:{
-            items:3
-        },
-        1000:{
-            items:5
+            items:2
         }
     }
-})
+  });
+});
