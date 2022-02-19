@@ -1,16 +1,16 @@
-# Corteflix
+# Castflix
 
-Corteflix is a site for shorts videos interesting!
+Corteflix is a Web focused in streaming of the Podcast's
 
 ## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+![alt text](https://github.com/deviniciuss/Castflix/blob/master/img/tela1.png)
+
+![alt text](https://github.com/deviniciuss/Castflix/blob/master/img/tela2.png)
+
 
 ## Installation
 
-Use this link for visualization of the project https://codepen.io/
-
-
-
+Use this link for visualization of the project https://castflix.deviniciuss.repl.co/
 
 
 ## Contributing
@@ -19,7 +19,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Suport
-My contacts here
+My contacts here: 
+[Linkedin](https://www.linkedin.com/in/vinicius-rosa-/)
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
