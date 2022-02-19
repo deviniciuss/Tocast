@@ -1,6 +1,6 @@
 # Castflix
 
-Corteflix is a Web focused in streaming of the Podcast's
+Castflix is a Web focused in streaming of the Podcast's
 
 ## Visuals
 ![alt text](https://github.com/deviniciuss/Castflix/blob/master/img/tela1.png)
