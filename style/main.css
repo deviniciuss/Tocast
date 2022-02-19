@@ -87,3 +87,9 @@ header nav a:hover{
 .botao i{
     margin-right: 8px;
 }
+
+/*WRAPPER: means envelop, in portuguese means: Envelopar */
+
+.filme-principal .container{
+    width: 70%;
+}
