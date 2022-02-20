@@ -1,6 +1,6 @@
-# Castflix
+# Tocast
 
-Castflix is a Web focused in streaming of the Podcast's
+Tocast is a Web focused in streaming of the Podcast's
 
 ## Visuals
 ![alt text](https://github.com/deviniciuss/Castflix/blob/master/img/tela1.png)
@@ -10,8 +10,7 @@ Castflix is a Web focused in streaming of the Podcast's
 
 ## Installation
 
-Use this link for visualization of the project https://castflix.deviniciuss.repl.co/
-
+Use this link for visualization of the project https://tocast.deviniciuss.repl.co/
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
