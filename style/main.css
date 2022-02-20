@@ -1,6 +1,6 @@
 /* Declaring a variable in CSS, happens because imagine if you need to change the color of your site, rather than you going to change color for another color in your CSS, so you easily change the color declared of the variable */
 :root{
-    --roxo: #7236c5;
+    --roxo: #802c96;/*   #7236c5;*/
     --preta: #141414;
 }
 
@@ -37,16 +37,17 @@ header nav a{
     text-decoration: none;
     color: rgb(255, 255, 255);
     margin-right: 10px;
-    font-family: Arial, Helvetica, serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
 header nav a:hover{
     
-    display: inline-block;
-    padding: 1em;
-    background-color: #7236c5;
+    display: inline-flex;
+    padding: 1.3em;
+    background-color: #802c96;
     text-decoration: none;
     color: white;
+    transition:0.7s ; 
    
 
     
@@ -55,20 +56,20 @@ header nav a:hover{
 
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0, .50),rgba(0,0,0, .50)100%), url('../img/capa.png');
+    background: linear-gradient(rgba(0,0,0, .100),rgba(0,0,0, .100)100%), url('../img/capa.png');
 
     height: 650px;
     background-size:cover ;
 
     display: flex;
-    flex-direction: column;
+    flex-direction:  column;
     justify-content: center;
     align-items: flex-start;
 }
 
 .filme-principal .container{
     margin-left: 20px ;
-    font-family: Arial, Helvetica, serif;
+    font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .filme-principal .descricao{
@@ -132,14 +133,14 @@ header nav a:hover{
       width: auto;
       background-color: 141414;
       display: block;
-      border: 2px solid #7236c5;
+      border: 2px solid #802c96;
   }
   .item-video-subfolder {
     height: 550px;
     width: auto;
     background-color: 141414;
     display: block;
-    border: 2px solid #7236c5;
+    border: 2px solid #802c96;
 }
 
 
