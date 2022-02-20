@@ -26,9 +26,10 @@ header .container{
 
 header .logo{
     color: var(--roxo);
-    font-family: Arial Black, Helvetica, sans-serif;
-    font-size: 40px;
-    margin-left: 8px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 55px;
+    margin-left: 10px;
+    letter-spacing: 5px;
     
 }
 
@@ -46,6 +47,8 @@ header nav a:hover{
     background-color: #7236c5;
     text-decoration: none;
     color: white;
+   
+
     
 }
 
@@ -78,12 +81,14 @@ header nav a:hover{
 
 .titulo{
     margin-top:15%;
-    font-size: 40px;
+    font-size: 30px;
     font-family: 'Merriweather', serif;
+    letter-spacing: 2px;
 }
 .botao{
     background-color: rgba(0, 0, 0, .50);
     border: none;
+    
     color: white;
 
     padding: 15px 30px;
@@ -91,7 +96,7 @@ header nav a:hover{
 
     cursor: pointer;
     transition: .5s ease all;
-    ;
+   
 }
 .botao:hover{
     background-color: white;
@@ -130,12 +135,4 @@ header nav a:hover{
       border: 2px solid #7236c5;
   }
 
-.carousel-filmes-genres .item-video{
-    height: 550px;
-      width: auto;
-      background-color: 141414;
-      display: block;
-      border: 2px solid #7236c5;
-
-}
 

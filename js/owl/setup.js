@@ -14,6 +14,7 @@ $(document).ready(function($) {
         600:{
             items:2
         }
+        
     }
   });
 });
