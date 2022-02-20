@@ -134,5 +134,12 @@ header nav a:hover{
       display: block;
       border: 2px solid #7236c5;
   }
+  .item-video-subfolder {
+    height: 550px;
+    width: auto;
+    background-color: 141414;
+    display: block;
+    border: 2px solid #7236c5;
+}
 
 
