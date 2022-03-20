@@ -19,7 +19,7 @@ Please make sure to update tests as appropriate.
 
 ## Suport
 My contacts here: 
-[Linkedin](https://www.linkedin.com/in/vinicius-rosa-/)
+[Linkedin](https://www.linkedin.com/in/deviniciuss/)
 
 
 ## License
