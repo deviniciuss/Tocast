@@ -1,6 +1,6 @@
 # Tocast
 
-Tocast is a Web focused in streaming of the Podcast's
+Tocast is a Web focused in streaming of the Podcast
 
 ## Visuals
 ![alt text](https://github.com/deviniciuss/Castflix/blob/master/img/tela1.png)
